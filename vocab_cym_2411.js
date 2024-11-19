@@ -1,4 +1,4 @@
-const outputjs  = {
+const vocab_cym_2411js  = {
 "": "",
 "'-ess' feminine suffix": "es(nm)",
 "'aa'": "a=(letter)/a^(letter)",
@@ -29943,10 +29943,6 @@ const outputjs  = {
 "zoological": "milofyddol(adj)",
 "zoologist": "milofydd(nm)",
 "zoology": "mildraethawd(nm)/milhanes(nm)/milofyddiaeth(nf)/sw^oleg(nmf)",
-"zzzzxxx": "yyy(zzz)",
-"zzzzxxxa": "yyy(zzz)",
-"zzzzxxxb": "yyy(zzz)",
-"zzzzxxxc": "yyy(zzz)",
 "":""};
-const outputjs_loaded=true;
-if(outputjs_loaded) console.log(outputjs["zzzzxxxd"]); 
+const vocab_cym_2411js_loaded=true;
+if(vocab_cym_2411js_loaded) console.log(vocab_cym_2411js["zoology"]); 
