@@ -4,3 +4,10 @@
 *.log
 *.tmp
 *~
+0buf
+0buff
+*.tmp
+*.temp
+*.bck
+*.bak
+*.bkp
